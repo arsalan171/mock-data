@@ -1,0 +1,172 @@
+{
+    "$id": "1",
+    "userId": "YhataTestUser",
+    "responseCode": 200,
+    "responseMessage": "Success",
+    "timeStamp": 1573642066655,
+    "customers": {
+        "$id": "2",
+        "values": [
+            {
+                "$id": "3",
+                "custName": "DemoCustomerDay2",
+                "custNum": "000001",
+                "siteId": "10",
+                "siteName": "Sand Island",
+                "warehouseId": "10",
+                "warehouseName": "Sand Island",
+                "SalesRepID": "PN-000093",
+                "SalesRepName": "Susan Opulauoho",
+                "lastOrderDate": "1-1-1900",
+                "lastPaymentDate": "1-1-1900",
+                "TermOfPayment": "",
+                "creditlimit": 0,
+                "creditOnHold": false,
+                "DeliveryCalendar": "",
+                "pastDue": 0,
+                "amountDue": 0,
+                "currentMonthDue": 0,
+                "monthToDateAmount": 0.0,
+                "monthToDateOrders": 0,
+                "yearToDateAmount": 0.0,
+                "yearToDateOrders": 0,
+                "pricingZone": "",
+                "custStatus": true,
+                "custEmail": "",
+                "custPhone": "",
+                "custFax": "",
+                "website": "",
+                "company": "YH",
+                "suspended": false,
+                "calendarId": "",
+                "standardWorkDayHours": 0.0,
+                "billingAddress": {
+                    "$id": "4",
+                    "values": [
+                        {
+                            "$id": "5",
+                            "name": "Demo address",
+                            "street": "",
+                            "primary": true,
+                            "postalCode": "08872",
+                            "country": "USA",
+                            "city": "Sayreville",
+                            "state": "NJ",
+                            "county": "MIDDLESEX",
+                            "Purpose": "",
+                            "addressKey": 5637152832.0,
+                            "collectionType": 0
+                        },
+                        {
+                            "$id": "6",
+                            "name": "Demo address",
+                            "street": "",
+                            "primary": false,
+                            "postalCode": "",
+                            "country": "USA",
+                            "city": "",
+                            "state": "",
+                            "county": "",
+                            "Purpose": "",
+                            "addressKey": 5637152833.0,
+                            "collectionType": 0
+                        }
+                    ]
+                },
+                "shippingAddress": {
+                    "$id": "7",
+                    "values": [
+                        {
+                            "$id": "8",
+                            "name": "Demo address",
+                            "street": "",
+                            "primary": true,
+                            "postalCode": "08872",
+                            "country": "USA",
+                            "city": "Sayreville",
+                            "state": "NJ",
+                            "county": "MIDDLESEX",
+                            "Purpose": "",
+                            "addressKey": 5637152832.0,
+                            "collectionType": 0
+                        }
+                    ]
+                },
+                "collectionType": 7
+            },
+            {
+                "$id": "9",
+                "custName": "Syed Atir Mohiuddin",
+                "custNum": "000003",
+                "siteId": "70",
+                "siteName": "Maui",
+                "warehouseId": "70",
+                "warehouseName": "Maui",
+                "SalesRepID": "PN-000093",
+                "SalesRepName": "Susan Opulauoho",
+                "lastOrderDate": "11-11-2019",
+                "lastPaymentDate": "1-1-1900",
+                "TermOfPayment": "15NMonth",
+                "creditlimit": 50000,
+                "creditOnHold": false,
+                "DeliveryCalendar": "",
+                "pastDue": 0,
+                "amountDue": 0,
+                "currentMonthDue": 0,
+                "monthToDateAmount": 0.0,
+                "monthToDateOrders": 0,
+                "yearToDateAmount": 0.0,
+                "yearToDateOrders": 0,
+                "pricingZone": "",
+                "custStatus": true,
+                "custEmail": "syedatir.mohiuddin@visionetsystems.com",
+                "custPhone": "8084474255",
+                "custFax": "8084472588",
+                "website": "",
+                "company": "YH",
+                "suspended": false,
+                "calendarId": "",
+                "standardWorkDayHours": 0.0,
+                "billingAddress": {
+                    "$id": "10",
+                    "values": [
+                        {
+                            "$id": "11",
+                            "name": "Bill To",
+                            "street": "285 Sand Island Access Road",
+                            "primary": true,
+                            "postalCode": "96819",
+                            "country": "USA",
+                            "city": "Honolulu",
+                            "state": "HI",
+                            "county": "HONOLULU",
+                            "Purpose": "",
+                            "addressKey": 5637152827.0,
+                            "collectionType": 0
+                        }
+                    ]
+                },
+                "shippingAddress": {
+                    "$id": "12",
+                    "values": [
+                        {
+                            "$id": "13",
+                            "name": "Ship To",
+                            "street": "296 sand island access road",
+                            "primary": false,
+                            "postalCode": "96819",
+                            "country": "USA",
+                            "city": "Honolulu",
+                            "state": "HI",
+                            "county": "HONOLULU",
+                            "Purpose": "",
+                            "addressKey": 5637152835.0,
+                            "collectionType": 0
+                        }
+                    ]
+                },
+                "collectionType": 7
+            }
+        ]
+    }
+}
