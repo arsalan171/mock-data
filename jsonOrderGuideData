@@ -1,0 +1,43 @@
+{
+    "$id": "1",
+    "userId": "YhataTestUser",
+    "responseCode": 200,
+    "responseMessage": "Success",
+    "timeStamp": 1573714133072,
+    "orderGuide": {
+        "$id": "2",
+        "values": [
+            {
+                "$id": "3",
+                "customerAccount": "000005",
+                "orderGuideId": "YH-000014",
+                "name": "General guide",
+                "createdBy": "abdul.manan",
+                "createdDate": "2019-11-11T10:04:02",
+                "modifiedBy": "abdul.manan",
+                "modifiedDate": "2019-11-11T10:04:25",
+                "orderGuideType": "General guide",
+                "SiteId": "20",
+                "SiteName": "Hilo",
+                "Warehouse": "20",
+                "WarehouseName": "Hilo",
+                "orderGuideHeaderKey": 5637149826,
+                "orderGuideItem": {
+                    "$id": "4",
+                    "values": [
+                        {
+                            "$id": "5",
+                            "ItemId": "101006",
+                            "Qty": 0.0,
+                            "Unit": "cs",
+                            "orderGuideLineKey": 5637149826,
+                            "operation": 0,
+                            "collectionType": 14
+                        }
+                    ]
+                },
+                "collectionType": 13
+            }
+        ]
+    }
+}
